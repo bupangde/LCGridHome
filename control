@@ -1,0 +1,8 @@
+Package: com.lian.lcgridhome
+Name: LCGridHome
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: 把 LiveContainer 宿主主页换成 4 列桌面式图标网格（宿主 UI dylib 插件）
+Maintainer: lian
+Author: lian
+Section: Tweaks
